@@ -51,6 +51,9 @@ img {
   top: 0px;
   padding: 0 30px;
 }
+.navbar.top {
+  background: transparent;
+}
 
 .navbar a {
   color: #fff;
