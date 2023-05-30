@@ -34,14 +34,14 @@
   color: #fff;
 }
 
-.btn-dark,
-.bg-dark {
+.btn-light,
+.bg-light {
   background: #f4f4f4;
   color: #333;
 }
 
-.btn-light,
-.bg-light {
+.btn-dark,
+.bg-dark {
   background: #333;
   color: #fff;
 }
@@ -78,7 +78,7 @@
 .flex-columns .column {
   display: flex;
   flex-direction: column;
-  flex-basis: 100%;
+  /* flex-basis: 100%; */
   flex: 1;
 }
 
